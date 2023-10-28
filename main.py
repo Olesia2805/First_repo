@@ -1,1 +1,3 @@
-print ("Hello World! Hello, Olesia")
+print ("Hello World!")
+
+print ("Hello Git")
